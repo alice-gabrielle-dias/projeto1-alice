@@ -1,4 +1,4 @@
-# Função para somar 
+# Função para somar dois números
 def somar(x, y):
     return x + y
 
