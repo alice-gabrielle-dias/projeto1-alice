@@ -1,40 +1,38 @@
-# \# Estudos em Python
+\# Estudos em Python
 
-# 
 
-# Repositório com exercícios desenvolvidos durante o aprendizado dos fundamentos da linguagem Python.
 
-# 
+Repositório com exercícios desenvolvidos durante o aprendizado dos fundamentos da linguagem Python.
 
-# Os códigos abordam conceitos essenciais para iniciantes, como:
 
-# 
 
-# \- Definição e utilização de funções
+Os códigos abordam conceitos essenciais para iniciantes, como:
 
-# \- Estruturas condicionais (`if`, `elif`, `else`)
+\- Definição e utilização de funções
 
-# \- Operadores matemáticos
+\- Estruturas condicionais (if, elif, else)
 
-# \- Entrada e saída de dados no terminal
+\- Operadores matemáticos
 
-# \- Conversão de tipos (`int`, `float`)
+\- Entrada e saída de dados no terminal
 
-# \- Validação de erros simples
+\- Conversão de tipos (int, float)
 
-# \- Interação com o usuário via linha de comando
+\- Validação de erros simples
 
-# 
+\- Interação com o usuário via linha de comando
 
-# Os exercícios incluem:
 
-# \- Calculadora básica com operações matemáticas
 
-# \- Verificação se um número é par ou ímpar
+Os exercícios incluem:
 
-# \- Comparação de números em relação a um valor específico
+\- Calculadora básica com operações matemáticas
 
-# 
+\- Verificação se um número é par ou ímpar
 
-# Projeto criado para fins de estudo e prática dos fundamentos de Python.
+\- Comparação de números em relação a um valor específico
+
+
+
+Projeto criado para fins de estudo e prática dos fundamentos de Python.
 
